@@ -1,0 +1,71 @@
+{
+  "mcpServers": {
+    "Demo server": {
+      "command": "C:\\Users\\saika\\.local\\bin\\uv.exe",
+      "args": [
+        "run",
+        "--with",
+        "fastmcp",
+        "fastmcp",
+        "run",
+        "D:\\Practice\\expense-tracker-server\\src\\expense_tracker_server\\main.py"
+      ],
+      "env": {},
+      "transport": "stdio",
+      "type": null,
+      "cwd": null,
+      "timeout": null,
+      "keep_alive": null,
+      "description": null,
+      "icon": null,
+      "authentication": null
+    }
+  },
+  "preferences": {
+    "coworkLegacyRootGrantsPruned": true,
+    "launchPreviewPersistedWorkspaces": [],
+    "launchPreviewSessionScopedSessions": [],
+    "earlyWindowShowLatched": true,
+    "remoteToolsDeviceName": "saikarthik",
+    "epitaxyPrefs": {
+      "desktop-frame.paneStore.v1": {
+        "state": {
+          "extraPanesByMode": {},
+          "colWeightsByMode": {},
+          "rowSplit": 0.5,
+          "draftNonce": 0,
+          "lastPrimaryCodeSession": null
+        },
+        "version": 4
+      },
+      "dframe-group-scopes": {},
+      "dframe-local-slice": {
+        "pinnedOrder": [],
+        "homeProjectsPinnedOrder": []
+      },
+      "starred-local-code-sessions": [],
+      "starred-session-groups": [],
+      "starred-cowork-spaces": [],
+      "ccd-sessions-filter": {
+        "state": {
+          "selectedProjects": []
+        },
+        "version": 0
+      }
+    },
+    "coworkHipaaRestricted": false,
+    "coworkWebSearchEnabled": true,
+    "coworkScheduledTasksEnabled": false,
+    "ccdScheduledTasksEnabled": false,
+    "orgWorkAcrossAppsDisabled": true,
+    "coworkPreferredBrowser": "built_in",
+    "coworkBrowserToolsEnabled": false,
+    "coworkModelAutoFallbackByAccount": {
+      "597fd07f-3410-488f-aedd-afd7dfb1c3d3": true
+    },
+    "bypassPermissionsGateByAccount": {
+      "597fd07f-3410-488f-aedd-afd7dfb1c3d3": false
+    }
+  },
+  "coworkUserFilesPath": "C:\\Users\\saika\\Claude"
+}
